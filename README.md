@@ -1,4 +1,4 @@
 # Machine-Learning
-Machine Learning Projects
+Machine Learning Projects in Python and Octave-Matlab
 
-Projects : OCR, Handwriting Recognition, Pixel Reduction with PCA, and lot more exciting Projects!
+Projects : OCR, Handwriting Recognition,Spam Classification,Recommender Engines,Image Compressionwith PCA, and lot more exciting Projects!
