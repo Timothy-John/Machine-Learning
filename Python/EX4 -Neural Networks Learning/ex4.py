@@ -31,7 +31,7 @@ lam=0
 
 #.....Display Data.....
 print("Visualizing Data......")
-#DisplayData(X)
+DisplayData(X)
 
 #.....Cost Functon..... 
 J,_=nnCostFunction(nn_params,input_layer,hidden_layer,output_layer,X,y,lam)  # Cost & Gradient returned
